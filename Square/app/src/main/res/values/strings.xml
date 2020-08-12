@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Square</string>
-    <string name="tab_text_1">Overview</string>
-    <string name="tab_text_2">Projects</string>
-    <string name="dialog_message">Create new log in som project</string>
-    <string name="dialog_title">Create log</string>
-</resources>
